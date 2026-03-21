@@ -10,10 +10,12 @@ const AboutSection = () => (
         </h2>
 
         <p className="text-muted-foreground leading-relaxed">
-          A DM Soluções Digitais nasceu com o objetivo de ajudar empresas a
-          crescer na internet através de tecnologia, design e inteligência
-          digital. Criamos soluções modernas que fortalecem a presença online
-          e melhoram o relacionamento com clientes.
+          Nosso time conta com profissionais de tecnologia e inteligência artificial com mais de 10 anos de experiência, atuando em projetos como detecção de objetos em vídeo com drones, automação de consulta de leis e casos jurídicos para advogados e resolução de tickets para empresas do Canadá e Estados Unidos. Ao longo dessa jornada, desenvolvemos soluções que unem estratégia, automação e presença digital para impulsionar resultados de verdade. 
+          <br />
+Também contamos com especialistas em design digital e gráfico, com mais de 10 anos de experiência, responsáveis pela criação de logotipos, identidades visuais, interfaces, materiais digitais, sempre focados em transmitir a essência de cada marca de forma única e memorável. 
+          <br />
+Nosso propósito é simples: ajudar empresas a se destacarem no digital de forma profissional, inteligente e acessível. <br />
+Mais do que serviços, entregamos presença, autoridade e crescimento.
         </p>
       </AnimatedSection>
 
